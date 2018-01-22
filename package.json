@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-angularjs-annotate",
+  "name": "@camptocamp/babel-plugin-angularjs-annotate",
   "version": "0.8.2",
   "description": "Babel plugin to add angularjs dependency injection annotations",
   "main": "babel-ng-annotate.js",
